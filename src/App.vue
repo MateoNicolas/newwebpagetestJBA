@@ -5,7 +5,7 @@ import footer from './components/footer.vue'
 
 <template>
  
- <home msg=""/> 
+ <home msg="JAVIER BRAVO ARTIST"/> 
  <footer/>
  
 </template>
