@@ -9,7 +9,9 @@ defineProps({
 <template>
   <span class="msg"> PROXIMAMENTE </span>
   <br />
-  <span class="logo"> JAVIER BRAVO, ARTISTA </span>
+  <span class="logo"> 
+  <img src="./assets/IMG_0109.jpg" alt="logo">
+   </span>
   <br />
   <span class="social-media">
     Follow us, meanwhile:
