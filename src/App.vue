@@ -1,12 +1,17 @@
 <script setup>
 import home from './components/home.vue'
 import foot from './components/foot.vue'
+import landingPage from './components/landingPage.vue'
 </script>
 
 <template>
- 
+ <landingPage/>
+
+ <!-- 
+
  <home msg="JAVIER BRAVO ARTIST"/> 
  <foot/>
+ -->
  
 </template>
 
