@@ -13,6 +13,7 @@ defineProps({
     <div class="menu-item">Acerca</div>
     <div class="menu-item">Contribuye</div>
     <div class="menu-item">Productos</div>
+    <div class="sub-item"></div>
     <div class="menu-item">Blog</div>
     <div class="menu-item">Contacto</div>
     </div>
@@ -20,12 +21,11 @@ defineProps({
   <div class="card">"Hasta los negocios debían tener una postura escénica pintoresca." <br> Oscar Wilde </div>
 
   
+  
 </template>
 
 <style scoped>
-.read-the-docs {
-  color: #888;
-}
+
 .menu {
   display: flex;
   align-items: center;

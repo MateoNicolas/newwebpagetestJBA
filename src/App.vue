@@ -1,12 +1,12 @@
 <script setup>
 import home from './components/home.vue'
-import footer from './components/footer.vue'
+import foot from './components/foot.vue'
 </script>
 
 <template>
  
  <home msg="JAVIER BRAVO ARTIST"/> 
- <footer/>
+ <foot/>
  
 </template>
 
