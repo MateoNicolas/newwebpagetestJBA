@@ -1,11 +1,14 @@
 <script setup>
 import home from './components/home.vue'
+import footer from './components/footer.vue'
 </script>
 
 <template>
  <div class="logo">
- <home class="logo" msg="Home page" />
+ <home  msg="Home page" />
+ 
  </div>
+ <footer/>
  
 </template>
 
