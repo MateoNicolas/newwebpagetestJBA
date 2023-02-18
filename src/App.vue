@@ -4,10 +4,8 @@ import footer from './components/footer.vue'
 </script>
 
 <template>
- <div class="logo">
- <home  msg="Home page" />
  
- </div>
+ <home msg=""/> 
  <footer/>
  
 </template>

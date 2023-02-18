@@ -4,17 +4,13 @@ import { ref } from 'vue';
 </script>
 
 <template>
-<div class="foot">
-foot
-</div>
- 
-  
+hello
+  <div class="foot">footer space</div>
 </template>
 
 <style scoped>
-.foot{
+.foot {
   background: black;
   heigth: 200px;
 }
-
 </style>

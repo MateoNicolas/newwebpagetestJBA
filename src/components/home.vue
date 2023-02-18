@@ -17,7 +17,7 @@ defineProps({
     <div class="menu-item">Contacto</div>
     </div>
   </div>
-  <div class="card">El futuro de tu vida, reflejada en arte, esta por llegar.</div>
+  <div class="card">"Hasta los negocios debían tener una postura escénica pintoresca." <br> Oscar Wilde </div>
 
   
 </template>
