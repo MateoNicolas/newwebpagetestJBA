@@ -10,7 +10,7 @@ defineProps({
   <span class="msg"> PROXIMAMENTE </span>
   <br />
   <span class="logo"> 
-  <img src="./assets/IMG_0109.jpg" alt="logo">
+  <img src="../assets/IMG_0109.jpg" alt="logo">
    </span>
   <br />
   <span class="social-media">
@@ -30,7 +30,7 @@ defineProps({
 
 <style scoped>
 .msg {
-  color: white;
+  color: black;
 }
 .logo {
   background: white;
