@@ -7,12 +7,14 @@ defineProps({
 </script>
 
 <template>
-  <h1 class="msg"> SOON </h1>
+  <h1 class="msg"> PRONTO </h1>
   <br />
 
   <span class="social-media">
+   <!-- 
     Follow us:
-    <div class="menu">
+   
+<div class="menu">
       <div class="social-item">
         <a href="www.instagram.com"
           ><img
@@ -22,6 +24,9 @@ defineProps({
         /></a>
       </div>
     </div>
+
+    -->
+    
   </span>
 </template>
 
