@@ -7,21 +7,18 @@ defineProps({
 </script>
 
 <template>
-  <span class="msg"> PROXIMAMENTE </span>
+  <h1 class="msg"> SOON </h1>
   <br />
-  <span class="logo"> 
-  <img src="../assets/IMG_0109.jpg" alt="logo">
-   </span>
-  <br />
+
   <span class="social-media">
-    Follow us, meanwhile:
+    Follow us:
     <div class="menu">
       <div class="social-item">
         <a href="www.instagram.com"
           ><img
-            src="../assets/instagram.jpg"
+            src="../assets/instagramQR.jpg"
             alt="instagram logo"
-            style="width: 42px; height: 42px"
+            style="width: 300px; height: 300px"
         /></a>
       </div>
     </div>
@@ -31,10 +28,8 @@ defineProps({
 <style scoped>
 .msg {
   color: black;
+  font-weight: 700px;
+   
 }
-.logo {
-  background: white;
-}
-.social-media {
-}
+
 </style>
