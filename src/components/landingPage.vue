@@ -8,7 +8,7 @@ defineProps({
 
 <template>
   <h1 class="msg"> PRONTO </h1>
-  <h2>10-03-2023</h2>
+  <h2>2023</h2>
   <br />
 
   <span class="social-media">
